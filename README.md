@@ -7,29 +7,23 @@ I am a passionate learner focused on growth and improvement in the field of Data
 
 ## 🌱 Education
 - Graduated in Electronics and Communication Engineering.
+- Intern at LearnBay as Data Science and Learned DS&AI Carrer Skills
 
 ## 👯 Collaboration
 - I’m looking to collaborate on Full Stack Data Science projects.
 
 ## ⚡ Fun Fact
-- I enjoy listening to podcasts.
+- I enjoy using AI in Life hacks.
 
 
 ## 📝 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-jithendar-reddy)
-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yervajithendarr2)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yjithendarreddy09)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-jithendar-reddy) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yervajithendarr2) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yjithendarreddy09) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yervajithenadarreddy2@gmail.com)
 
 
 ## 💬 Ask Me About
 - Methodologies or pathways for learning
 - Motivation
 - Any new ideas
-
-## 📫 How to Reach Me
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yervajithenadarreddy2@gmail.com)
 
 
 ## Languages and Tools:
@@ -49,6 +43,7 @@ I am a passionate learner focused on growth and improvement in the field of Data
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Achive
 
 ## Support
 - If you'd like to support my work, feel free to reach out!
