@@ -7,7 +7,7 @@ I am a passionate learner focused on growth and improvement in the field of Data
 
 ## 🌱 Education
 - Graduated in Electronics and Communication Engineering.
-- Intern at LearnBay as Data Science and Learned DS&AI Carrer Skills
+- Intern at LearnBay as Data Scientist and Learned DS&AI Carrer Skills
 
 ## 👯 Collaboration
 - I’m looking to collaborate on Full Stack Data Science projects.
